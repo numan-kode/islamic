@@ -1,30 +1,17 @@
-h3{
-    color: rgb(0, 255, 64);
-    font-size: 200%;
-}
-h1{
-    text-align: center;
-}
-.img{
-     width: 200px;
-}
-.imgs{
-    width: 200px;
-}
-/* .img-with-text {
-    text-align: justify;
-    width: [width of img];
+
+
+h5{
+    color: rgb(224, 11, 11);
 }
 
-.img-with-text img {
-    display: block;
-    margin: 0 auto; */
-/* } */
-.imgbox{
-    display: flex;
-justify-content: center; 
-   flex-direction: column;
-}
 .immg{
-    width: 150px;
+    color: blue;
+}
+h2{
+    color: tomato;
+    text-align: center;
+}
+h1{
+    color: brown;
+    text-align: center;
 }
