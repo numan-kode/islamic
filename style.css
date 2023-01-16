@@ -1,12 +1,8 @@
 
-
 h5{
     color: rgb(224, 11, 11);
 }
 
-.immg{
-    color: blue;
-}
 h2{
     color: tomato;
     text-align: center;
@@ -14,4 +10,15 @@ h2{
 h1{
     color: brown;
     text-align: center;
+    font-size: 250%;
+}
+
+.home{
+    font-size: 250px;
+    color: yellow;
+}
+b{
+    color: red;
+    text-align: left;
+    font-size: 30px;
 }
