@@ -23,5 +23,27 @@ b{
     font-size: 30px;
 }
 body{
-    background-color: lightblue;
+    background-color: rgb(215, 229, 224);
+    padding: 5px 15px 20px;
 }
+h{
+    color: rgb(227, 13, 13);
+    font-style: unset;
+    font-size: 30px;
+    
+}
+
+
+
+/* .container{
+    background-color: rgb(22, 210, 41);
+    padding: ;
+    border: 1px rgb(247, 9, 9);
+    border-radius: 15px;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 20px;
+    padding: 10px;
+} */
